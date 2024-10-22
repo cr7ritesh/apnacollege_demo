@@ -2,4 +2,4 @@
 
 This is my first git repository
 <br>
-Author - Ritesh
+Author - Ritesh Manna
